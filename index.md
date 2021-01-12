@@ -1,14 +1,14 @@
 
-### Anahita Taheri
+### zahra abdolahi
 
 
 ### Personal informations
 
 ---
-+ name: Anahita
-+ last name : Taheri
-+ Date of birth : 1979/November/29
-+ I am a trader and IT engineering student
++ name: zahra
++ last name : abdolahi
++ Date of birth : 1999/November/29
++ I am a IT engineering student
 + location : Tehran , I.R.Iran
 
 
@@ -22,7 +22,7 @@
 ### Education
 
 ---
-+ Diploma : Aeen Tarbiat high school
++ Diploma : ghalamchi high school
 + Bachelor of science : IT Engineering
 _ payam Noor University of North 
 
